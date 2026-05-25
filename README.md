@@ -67,7 +67,7 @@ Current development focuses on deterministic generation and decoding before real
 ---
 
 # Installation
-
+https://github.com/siwon2da/hs-am/issues/2   (다운로드)
 ## Windows
 
 ```powershell
